@@ -1,0 +1,2 @@
+Topla, Çıkar, Çarp, Böl Buttonları ile 2 textboxta olan sayılarla ilgil işlem yapan programı yazın.
+textboxların boş olma ve string olma kontrollerini yapın.
